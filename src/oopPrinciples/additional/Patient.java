@@ -1,4 +1,4 @@
-package oopPrinciples.Additional;
+package oopPrinciples.additional;
 
 public class Patient {
     private int planCode;

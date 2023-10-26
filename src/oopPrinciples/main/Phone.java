@@ -1,4 +1,4 @@
-package oopPrinciples.Main;
+package oopPrinciples.main;
 
 public class Phone {
     private String model;

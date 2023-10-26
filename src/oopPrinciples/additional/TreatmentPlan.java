@@ -1,6 +1,4 @@
-package oopPrinciples.Additional;
-
-import javax.print.Doc;
+package oopPrinciples.additional;
 
 public class TreatmentPlan {
     public void setTreatmentPlan (int planCode) {

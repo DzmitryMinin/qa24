@@ -1,4 +1,4 @@
-package oopPrinciples.Main;
+package oopPrinciples.main;
 /*1. Класс Phone.
 Создайте класс Phone, который содержит переменные number, model и weight.
 Создайте три экземпляра этого класса. Выведите на консоль значения их переменных.
