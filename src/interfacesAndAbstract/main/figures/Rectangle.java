@@ -12,7 +12,7 @@ public class Rectangle extends Figure{
 
     @Override
     public double getPerimeter() {
-        return getA() + getB();
+        return (getA() + getB()) * 2;
     }
 
     @Override
